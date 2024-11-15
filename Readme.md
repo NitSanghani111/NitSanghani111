@@ -16,7 +16,7 @@
   <a href="https://github.com/nitsanghani" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
-  <a href="https://www.linkedin.com/in/nit-sanghani" target="_blank">
+  <a href="https://www.linkedin.com/in/nitsanghani" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="https://twitter.com/your-twitter-handle" target="_blank">
@@ -76,7 +76,7 @@
 
 ## 📊 Projects
 
-### 1. **[Shashvat Brass Industries Website](https://example.com)**  
+### 1. **[Shashvat Brass Industries Website](https://shashvatenterprise.com)**  
 - Developed a comprehensive business website using **React.js** and **Node.js**.
 - Integrated features like dynamic product showcases and an interactive contact form.
 
@@ -102,7 +102,7 @@
 <p align="left">
   <a href="mailto:nitsanghani05@gmail.com"><img src="https://img.shields.io/badge/Email-Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://github.com/nitsanghani"><img src="https://img.shields.io/badge/GitHub-nitsanghani-181717?style=for-the-badge&logo=github"></a>
-  <a href="https://www.linkedin.com/in/nit-sanghani"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="https://www.linkedin.com/in/nitsanghani"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
 </p>
 
 <p align="center">
