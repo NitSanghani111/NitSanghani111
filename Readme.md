@@ -1,9 +1,8 @@
-<!-- Header Section with an animated GIF (Optional) -->
-<p align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="150px" alt="Developer Animation">
-</p>
-
-<h1 align="center">Hi, I'm Nit Sanghani 👋</h1>
+<!-- Header Section with text and image side by side -->
+<div style="display: flex; align-items: center;">
+  <h1 style="flex: 1; text-align: left;">Hi, I'm Nit Sanghani 👋</h1>
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="120px" alt="Developer Animation" style="margin-left: 20px;">
+</div>
 
 <p align="center">
   <b>B.Tech in Computer Engineering | Marwadi University</b>  
