@@ -1,7 +1,6 @@
-
 <p align="center">
   <a href="https://github.com/NitSanghani">
-    <img height="120px" style="object-fit: cover; border-radius: 10px; box-shadow: 0px 4px 10px rgba(0,0,0,0.1);" alt="Hello, I'm Nit Sanghani" src="/your-github-banner.png" />
+    <img height="120px" style="object-fit: cover; border-radius: 10px; box-shadow: 0px 4px 10px rgba(0,0,0,0.1);" alt="Hello, I'm Nit Sanghani" src="https://github.com/NitSanghani/your-github-banner.png" />
   </a>
 </p>
 
@@ -19,8 +18,8 @@
 - 🌐 Salesforce CRM Enthusiast
 - 🔥 MERN Stack Developer (MongoDB, Express.js, React.js, Node.js)
 - 💼 Experienced in Node.js, Express.js, Firebase, MongoDB, ReactJS, Tailwind, Bootstrap, MUI
-- 🚀 Built **Shahvat Brass Industries** business website
-- 🎯 Developed **Dasharam School Management System**
+- 🚀 Built **[Shahvat Brass Industries](https://github.com/NitSanghani/Shahvat-Brass-Industries)** business website
+- 🎯 Developed **[Dasharam School Management System](https://github.com/NitSanghani/Dasharam-School-Management-System)**
 
 ---
 
