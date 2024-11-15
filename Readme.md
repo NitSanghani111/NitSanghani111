@@ -79,10 +79,10 @@
   <a href="https://x.com/Nit_Sanghani308">
     <img align="center" alt="Nit Sanghani | Twitter" width="24px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
   </a>
-  <a href="https://www.linkedin.com/in/nit-sanghani/">
+  <a href="https://www.linkedin.com/in/nitsanghani">
     <img align="center" alt="Nit Sanghani | LinkedIn" width="24px" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" />
   </a>
-  <a href="mailto:nitsanghani308@gmail.com">
+  <a href="mailto:nitsanghani05@gmail.com">
     <img align="center" alt="Nit Sanghani | Email" width="24px" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" />
   </a>
 </p>
