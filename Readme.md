@@ -78,10 +78,10 @@
   <a href="https://twitter.com/yourprofile">
     <img align="center" alt="Your Name | Twitter" width="24px" src="https://upload.wikimedia.org/wikipedia/en/6/60/Twitter_Logo_as_of_2021.svg" />
   </a>
-  <a href="https://www.linkedin.com/in/yourprofile/">
+  <a href="https://www.linkedin.com/in/nitsanghani">
     <img align="center" alt="Your Name | LinkedIn" width="24px" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" />
   </a>
-  <a href="mailto:your.email@gmail.com">
+  <a href="mailto:nitsanghani05@gmail.com">
     <img align="center" alt="Your Name | Email" width="24px" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" />
   </a>
 </p>
