@@ -1,99 +1,74 @@
+<!-- Header Section with an animated GIF (Optional) -->
 <p align="center">
-  <a href="https://github.com/NitSanghani">
-    <img height="120px" style="object-fit: cover; border-radius: 10px; box-shadow: 0px 4px 10px rgba(0,0,0,0.1);" alt="Hello, I'm Nit Sanghani" src="your_image.png" />
-  </a>
+  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="100px" alt="Coding Animation">
+</p>
+
+<h1 align="center">Nit Sanghani</h1>
+
+<p align="center">
+  <b>B.Tech in Computer Engineering | Marwadi University</b>  
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=FF69B4&lines=Passionate+Developer;MERN+Stack+Enthusiast;Salesforce+Explorer;Problem+Solver" />
-</p>
-
-<br />
-
----
-
-### 👨‍💻 About Me
-
-- 🎓 3rd Year B.Tech Student at Marwadi University
-- 🔥 MERN Stack Developer
-- 🌐 Enthusiast in Salesforce CRM
-- 💼 Experienced in Node.js, Express.js, Firebase, MongoDB, ReactJS, Tailwind, Bootstrap, and Material-UI (MUI)
-- 🚀 Worked on projects like Shahvat Brass Industries Business Website & Dasharam School Management System
-
----
-
-### 🛠️ Tech Stack
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node-dot-js&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase"/>
-  <img src="https://img.shields.io/badge/ReactJS-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="ReactJS"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS"/>
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
-  <img src="https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white" alt="MUI"/>
+  <a href="mailto:nitsanghani05@gmail.com"><img src="https://img.shields.io/badge/Email-Me-blue?style=flat-square&logo=gmail"></a>
+  <a href="https://github.com/nitsanghani"><img src="https://img.shields.io/badge/GitHub-nitsanghani-black?style=flat-square&logo=github"></a>
 </p>
 
 ---
 
-### 📊 GitHub Stats
+## 👨‍💻 About Me
 
-<p align="center">
-  <a href="https://github.com/NitSanghani/github-readme-stats">
-    <img align="center" width="50%" src="https://github-readme-stats.vercel.app/api?username=NitSanghani&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="Nit Sanghani's github stats" />
-  </a>
-  <a href="https://github.com/NitSanghani/github-readme-stats">
-    <img align="center" width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NitSanghani&layout=compact&theme=radical&hide_border=true" />
-  </a>
+I am a **MERN Stack Developer** with a passion for creating efficient and scalable solutions. Alongside web development, I am an enthusiast in **Salesforce CRM**. Currently pursuing **B.Tech in Computer Engineering** from **Marwadi University**.
+
+---
+
+## 🛠 Skills
+
+<p align="left">
+  <img src="https://img.shields.io/badge/JavaScript-ES6+-yellow?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/HTML5-orange?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-blue?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white" alt="React" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" alt="Express.js" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Salesforce-00A1E0?style=flat-square&logo=salesforce&logoColor=white" alt="Salesforce CRM" />
 </p>
 
 ---
 
-### 🏆 GitHub Trophies
+## 🚀 Projects
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img align="center" src="https://github-profile-trophy.vercel.app/?username=NitSanghani&theme=radical&no-frame=true&row=1&column=6" alt="Nit Sanghani's GitHub Trophies" />
-  </a>
-</p>
+### 1. **[Shashvat Brass Industries Website](https://example.com)**  
+- Developed a complete business website with **React.js** and **Node.js**.
+- Integrated features like product showcases and contact forms.
 
----
+### 2. **Dasharam School Management System**  
+- Built a school management system for **Dasharam School**.
+- Features include student/staff management, attendance tracking, and fee collection.
 
-### 🔝 Top Repositories
-
-<p align="center">
-  <a href="https://github.com/NitSanghani/shahvat-brass-industries">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NitSanghani&repo=shahvat-brass-industries&theme=radical" />
-  </a>
-  <a href="https://github.com/NitSanghani/dasharam-school-management">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NitSanghani&repo=dasharam-school-management&theme=radical" />
-  </a>
-</p>
+### 3. **[Hospital Management System](https://github.com/nitsanghani/Hospital-Management)**  
+- Full-stack system with **React.js**, **Node.js**, and **MongoDB**.
+- Secure doctor verification, appointment booking, and payment handling.
 
 ---
 
-### 🌐 Connect with Me
+## 🎓 Education
 
-<p align="center">
-  <a href="https://x.com/Nit_Sanghani308">
-    <img align="center" alt="Nit Sanghani | Twitter" width="24px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
-  </a>
-  <a href="https://www.linkedin.com/in/nitsanghani">
-    <img align="center" alt="Nit Sanghani | LinkedIn" width="24px" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" />
-  </a>
-  <a href="mailto:nitsanghani05@gmail.com">
-    <img align="center" alt="Nit Sanghani | Email" width="24px" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" />
-  </a>
+- **Marwadi University**  
+  *B.Tech in Computer Engineering*
+
+---
+
+## 📫 Contact Me
+
+<p align="left">
+  <a href="mailto:nitsanghani05@gmail.com"><img src="https://img.shields.io/badge/Email-Me-blue?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://github.com/nitsanghani"><img src="https://img.shields.io/badge/GitHub-nitsanghani-black?style=for-the-badge&logo=github"></a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=NitSanghani&style=flat-square&color=blue" alt="Profile Views" />
-  <img src="https://badges.pufler.dev/visits/NitSanghani/NitSanghani?color=blue" alt="visits" />
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/l4FGuhL4U2WyjdkaY/giphy.gif" width="200" alt="Thank you gif" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400px" alt="Coding Animation">
 </p>
