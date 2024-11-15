@@ -1,82 +1,74 @@
-<!-- Header Section with text and image side by side -->
-<div style="display: flex; align-items: center;">
-  <h1 style="flex: 1; text-align: left;">Hi, I'm Nit Sanghani 👋</h1>
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="120px" alt="Developer Animation" style="margin-left: 20px;">
+<!-- Header Section with div layout (text on left, image on right) -->
+<div style="display: flex; align-items: center; justify-content: space-between;">
+  <div style="flex: 1; text-align: left;">
+    <h1>Hi, I'm Nit Sanghani 👋</h1>
+    <p><strong>B.Tech in Computer Engineering | Marwadi University</strong></p>
+    <p>I'm a MERN Stack Developer and passionate about crafting interactive and efficient web solutions. Currently, I'm also exploring Salesforce CRM and enhancing my cloud architecture skills.</p>
+  </div>
+  <div>
+    <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="150px" alt="Developer Animation">
+  </div>
 </div>
 
-<p align="center">
-  <b>B.Tech in Computer Engineering | Marwadi University</b>  
-</p>
+---
+
+## 🌐 Social Media & Contacts
 
 <p align="center">
-  <a href="mailto:nitsanghani05@gmail.com"><img src="https://img.shields.io/badge/Email-Me-blue?style=flat-square&logo=gmail"></a>
-  <a href="https://github.com/nitsanghani"><img src="https://img.shields.io/badge/GitHub-nitsanghani-black?style=flat-square&logo=github"></a>
-  <a href="https://www.linkedin.com/in/nit-sanghani"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin"></a>
+  <a href="mailto:nitsanghani05@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://github.com/nitsanghani" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="https://www.linkedin.com/in/nit-sanghani" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://twitter.com/your-twitter-handle" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
+  </a>
 </p>
 
 ---
 
 ## 👨‍💻 About Me 
 
-🎓 **B.Tech Computer Engineering Student** at [Marwadi University](https://www.marwadiuniversity.ac.in/), passionate about crafting interactive web experiences and building efficient back-end systems.
+🎓 **B.Tech Computer Engineering Student** at [Marwadi University](https://www.marwadiuniversity.ac.in/), passionate about creating user-friendly web applications with a focus on full-stack development.
 
-💼 I am a **MERN Stack Developer** with hands-on experience in developing full-stack web applications. I enjoy solving complex problems through code and am constantly exploring new technologies and methodologies.
+💼 I’m proficient in the **MERN Stack (MongoDB, Express.js, React.js, Node.js)** and enjoy developing both the front and back ends of web projects. I've built several full-stack applications and continuously improve my coding skills through hands-on projects.
 
-🚀 Apart from web development, I have a growing interest in **Salesforce CRM**, which I am actively learning and integrating into my projects.
-
-🌱 I’m currently enhancing my skills in cloud-based architecture and microservices, aiming to build scalable and secure systems.
-
-📫 Reach out to me at **nitsanghani05@gmail.com** or connect with me on [LinkedIn](https://www.linkedin.com/in/nit-sanghani).
+🚀 I’m also enthusiastic about **Salesforce CRM**, actively learning to integrate CRM solutions into my projects to deliver better client engagement and data management.
 
 ---
 
-## 🛠️ Skills & Tools
+## 🛠️ Skills
 
-### 🌐 **Web Development**
+### Frontend
 <p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+</p>
+
+### Backend
+<p align="left">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-</p>
-
-### 🔧 **Backend & Databases**
-<p align="left">
-  <img src="https://img.shields.io/badge/RESTful%20APIs-ff6f00?style=for-the-badge&logo=api&logoColor=white" alt="REST APIs" />
-  <img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongodb&logoColor=white" alt="Mongoose" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-</p>
-
-### ☁️ **Cloud & CRM**
-<p align="left">
-  <img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" alt="Salesforce CRM" />
-  <img src="https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
-</p>
-
-### 🧰 **Other Tools & Platforms**
-<p align="left">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="Visual Studio Code" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
 </p>
 
 ---
 
 ## 📊 Projects
 
-### 1. **[Shashvat Brass Industries Website](https://example.com)**  
-- Developed a comprehensive business website using **React.js** and **Node.js**.
-- Integrated features like dynamic product showcases and an interactive contact form.
+### 1. **Shashvat Brass Industries Website**
+- Created an interactive business website with dynamic product showcases.
+- Technologies used: **React.js**, **Node.js**, **MongoDB**.
 
-### 2. **Dasharam School Management System**  
-- Built an end-to-end school management system with student and staff management.
-- Developed attendance tracking and fee collection modules.
-
-### 3. **[Hospital Management System](https://github.com/nitsanghani/Hospital-Management)**  
-- Full-stack hospital management system with a focus on secure doctor verification and appointment handling.
-- Implemented **Razorpay** for secure payment handling and patient appointment scheduling.
+### 2. **Dasharam School Management System**
+- Built a system that manages students, teachers, and academic schedules efficiently.
+- Features: Attendance tracking, report generation, and fee management.
 
 ---
 
@@ -87,14 +79,19 @@
 
 ---
 
-## 📫 Let's Connect
-
-<p align="left">
-  <a href="mailto:nitsanghani05@gmail.com"><img src="https://img.shields.io/badge/Email-Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://github.com/nitsanghani"><img src="https://img.shields.io/badge/GitHub-nitsanghani-181717?style=for-the-badge&logo=github"></a>
-  <a href="https://www.linkedin.com/in/nit-sanghani"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
-</p>
+## 💬 Let's Connect!
 
 <p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300px" alt="Coding Animation">
+  <a href="mailto:nitsanghani05@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://github.com/nitsanghani" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="https://www.linkedin.com/in/nit-sanghani" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://twitter.com/your-twitter-handle" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
+  </a>
 </p>
