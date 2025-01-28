@@ -30,7 +30,7 @@
 
 🎓 **B.Tech Computer Engineering Student** at [Marwadi University](https://www.marwadiuniversity.ac.in/), passionate about crafting interactive web experiences and building efficient back-end systems.
 
-💼 I am a **MERN Stack Developer** with hands-on experience in developing full-stack web applications. I enjoy solving complex problems through code and am constantly exploring new technologies and methodologies.
+💼 I am a **Full Stack Developer** with hands-on experience in developing full-stack web applications. I enjoy solving complex problems through code and am constantly exploring new technologies and methodologies.
 
 🚀 Apart from web development, I have a growing interest in **Salesforce CRM**, which I am actively learning and integrating into my projects.
 
