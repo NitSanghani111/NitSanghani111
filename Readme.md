@@ -40,6 +40,33 @@
 
 ---
 
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <a href="https://github.com/NitSanghani111/github-readme-stats">
+    <img align="center" width="50%" src="https://github-readme-stats.vercel.app/api?username=NitSanghani111&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="nit's github stats" />
+  </a>
+  <a href="https://github.com/KishanVyas308/github-readme-stats">
+    <img align="center" width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NitSanghani111&layout=compact&theme=radical&hide_border=true" />
+  </a>
+</p>
+
+<figure><embed src="https://wakatime.com/share/@a4792295-0000-439f-9f07-59dc4516b102/a10bec5d-3ad1-4565-b7bc-d63d0a34c897.svg"></embed></figure>
+
+---
+
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img align="center" src="https://github-profile-trophy.vercel.app/?username=NitSanghani111&theme=radical&no-frame=true&row=1&column=6" alt="nit's GitHub Trophies" />
+  </a>
+</p>
+
+---
+
 ## 🛠️ Skills & Tools
 
 ### 🌐 **Web Development**
