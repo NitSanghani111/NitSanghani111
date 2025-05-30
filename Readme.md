@@ -208,14 +208,14 @@ Features:
 
 <div align="center">
   
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=nitsanghani&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=C9D1D9" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nitsanghani&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=C9D1D9" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=NitSanghani111&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=C9D1D9" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NitSanghani111&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=C9D1D9" />
 
 </div>
 
 <div align="center">
   
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nitsanghani&theme=tokyonight&hide_border=true&background=0D1117&ring=6366F1&fire=6366F1&currStreakLabel=6366F1)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=NitSanghani111&theme=tokyonight&hide_border=true&background=0D1117&ring=6366F1&fire=6366F1&currStreakLabel=6366F1)](https://git.io/streak-stats)
 
 </div>
 
@@ -225,7 +225,7 @@ Features:
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=nitsanghani&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=NitSanghani111&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -243,7 +243,7 @@ Features:
 
 <div align="center">
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nitsanghani&bg_color=0d1117&color=6366f1&line=6366f1&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=NitSanghani111&bg_color=0d1117&color=6366f1&line=6366f1&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -328,10 +328,7 @@ mindmap
 [![LinkedIn](https://img.shields.io/badge/Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nitsanghani)
 [![Email](https://img.shields.io/badge/Get_In_Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nitsanghani05@gmail.com)
 
----
 
-⭐ **If you find my work interesting, please consider giving it a star!** ⭐
 
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake animation" />
 
 </div>
