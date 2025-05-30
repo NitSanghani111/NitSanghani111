@@ -7,8 +7,8 @@
 </div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nitsanghani&label=Profile%20Views&color=6366f1&style=flat-square" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/nitsanghani?label=Followers&style=flat-square&color=6366f1" alt="GitHub Followers" />
+  <img src="https://komarev.com/ghpvc/?username=NitSanghani111&label=Profile%20Views&color=6366f1&style=flat-square" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/NitSanghani111?label=Followers&style=flat-square&color=6366f1" alt="GitHub Followers" />
 </p>
 
 ---
