@@ -34,7 +34,7 @@ const developer = {
 
 [![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nitsanghani05@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nitsanghani)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nitsanghani)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NitSanghani111)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/nitsanghani/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](#)
 
@@ -158,7 +158,7 @@ Features:
 <tr>
 <td width="50%">
 
-### 🏥 [Hospital Management System](https://github.com/nitsanghani/Hospital-Management)
+### 🏥 [Hospital Queue Appointment management System](https://github.com/nitsanghani/Hospital-Management)
 **Comprehensive Healthcare Platform**
 
 ```yaml
@@ -176,17 +176,17 @@ Features:
 </td>
 <td width="50%">
 
-### 🛒 [E-Commerce Platform](https://github.com/nitsanghani)
+### 🛒 [AgroConnect Platform](https://github.com/nitsanghani)
 **Full-Stack Shopping Solution**
 
 ```yaml
-Tech Stack: Next.js, Stripe API, MongoDB
+Tech Stack: react.js, express js , node js , MongoDB
 Features:
-  - Product catalog with search & filters
-  - Shopping cart & wishlist
-  - Secure payment processing
-  - Order tracking system
-  - Admin dashboard
+  -Buyer can see product inn detail and collabrate with farmer
+  - buyer farmer both seprate dashboard 
+  - Farmer can manage their products 
+  - both analtics dashbaord
+  - multi language dashbaord.
 ```
 
 [![GitHub](https://img.shields.io/badge/Source-Code-black?style=for-the-badge&logo=github)](https://github.com/nitsanghani)
