@@ -200,10 +200,11 @@ learning:
 
 interested_in:
   - DevOps Engineering
+  - AIOps
   - Platform Engineering
   - Cloud Architecture
   - Infrastructure Automation
-  - AIOps
+ 
 ```
 
 ---
